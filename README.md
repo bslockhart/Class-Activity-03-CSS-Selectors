@@ -26,7 +26,8 @@ Refer to the documentation:
 
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 
-* What are pseudo-class selectors? 
+* What are pseudo-class selectors?
+-A pseudo-class is a selector that selects elements that are in a specific state, e.g. they are the first element of their type, or they are being hovered over by the mouse pointer. 
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
